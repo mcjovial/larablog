@@ -1,0 +1,92 @@
+Web Foundations
+->HTML
+	 -Html Tags
+	 -Self closing Html tags
+	 -Anchor Tags
+	 -index.html
+	 -Relative vs Absolute Path
+	 -Html forms
+	 -Submitting a form
+	 -HTML vs HTML5
+	 -
+->CSS
+	 -CSS Properties
+	 -CSS Selectors
+	 -Texts & Fonts
+	 -Images in CSS
+	 -Box model
+	 -px vs em vs rem vs % vs VW vs VH
+	 -Critical Render Path
+	 -Flexbox
+	 -CSS3
+	 -Responsive UI
+->Bootstrap
+	 -Intro to Bootstrap
+	 -Bootstrap grid
+	 -build bootstrap Landing page
+->CSS Grid
+	 -CSS Grid vs Flexbox vs Bootstrap
+	 -CSS Layout
+	 -
+->JavaScript
+	 -Intro to Javascript
+	 -Types
+	 -Variables
+	 -Javasript on a webpage
+	 -Functions
+	 -Data structures: Arrays
+	 		 : Objects
+	 -Loops
+	 -Javascript keywords
+	 -Document Object Model (DOM)
+	 -DOM Selectors
+	 -DOM Events
+	 -jQuery
+	 -Scope
+	 -Advanced control flow (ES6 - ES2020)
+	 -Advanced Functions
+	 -Advanced Arrays
+	 -Advanced Objects
+	 -Type coercion
+	 -Pass by Value
+	 -Pass by Reference
+	 -Async Await
+	 -Advanced Loops
+	 -Arrow functions
+	 -Callback functions
+	 -Promises
+	 -JSON
+	 -JSON vs Form Data
+	 -AJAX
+->Developer Environment
+	 -Using the terminal
+	 -Using VScode
+	 -Using Git Bash
+->Git/Github
+	 -Installing Git
+	 -Git & Github operations
+->NPM/NPM scripts
+	 -Intro to NPM
+	 -Installing NPM & Node.js
+	 -Setting up NPM & package.json
+	 -Installing & using packages
+	 -Why update packages
+->React.Js
+	 -Intro to React.js
+	 -Create React App
+	 -React app folder structure
+	 -React fundamentals
+	 -Class vs Functional App.js
+	 -Hooks vs Classes
+	 -React components
+	 -React.Fragment & Semantic HTML
+	 -Styling Your react app
+	 -JSON placeholder
+	 -React hooks & Redux
+	 -Keeping react projects up to date
+	 -Error boundary in React
+	 -Deploying React apps
+	 
+Node.Js
+Databases
+Deployment
