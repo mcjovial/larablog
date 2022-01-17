@@ -1,0 +1,49 @@
+1 -> Exploring file structure
+2 -> What is MVC
+3 -> Getting started
+4 -> Controller basics
+5 -> Passing Data to a view
+6 -> Designing our blog Pages
+7 -> Layouts with blade
+8 -> Partials with blade
+9 -> Model basics
+10 -> Migration basics
+11 -> CRUD and RESTful Routes
+12 -> 'Create' function and forms in laravel
+13 -> Inserting Data and validation
+14 -> Javascript Form validation
+15 -> Sessions & Flash Messages
+16 -> Reading from our Database
+17 -> Working with dates from Database
+18 -> 'Read' our CRUD
+19 -> Model-form binding
+20 -> Updating Form data to Database
+21 -> Deleting resources with CRUD
+22 -> Pagination in laravel
+23 -> Querry builder
+24 -> Adding slug URLs to our Blog
+25 -> Slugs in our URL Routes
+26 -> Adding Features to our blog controller
+27 -> Authentication theory & Overview
+28 -> Laravel authentication ROutes & views
+29 -> Authentication Methods
+30 -> Password reset Emails
+31 -> Authentication shortcuts
+32 -> Blog categories & Learning relationships
+33 -> Categories CRUD
+34 -> Assigning categories to Posts
+35 -> Many to Many Relationships
+36 -> Building our tag Model
+37 -> Starting our tag CRUD
+38 -> Adding Tag UI/UX
+39 -> Show, Edit & Update our Tags
+40 -> DEleting Tags safely
+41 -> Sending email from contact form
+42 -> Adding comments
+43 -> Styling comments
+44 -> Managing comments
+45 -> Adding a WYSIWYG editor
+46 -> Output HTML  from database
+47 -> Security concerns with WYSIWYG editors
+48 -> Image upload for posts
+49 -> Validating, updating & Deleting Images
