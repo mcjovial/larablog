@@ -13,6 +13,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', 'FrontController@index')->name('home');
+
+Route::get('about', 'FrontController@about')->name('about');
+Route::get('contact', 'FrontController@contact')->name('contact');
+Route::post('contact-form', 'FrontController@contact_form')->name('contact.submit');
